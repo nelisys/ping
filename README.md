@@ -1,10 +1,10 @@
 # ping
 PHP Class for fping command
 
-Requires: fping
+Requirements
+------------
 
-Installation with Composer
---------------------------
+Requires: fping
 
 For RedHat/CentOS 6, 7
 
@@ -12,6 +12,9 @@ For RedHat/CentOS 6, 7
 [root@centos ~]# yum install epel-release
 [root@centos ~]# yum install fping
 ```
+
+Installation with Composer
+--------------------------
 
 ```shell
 $ composer require nelisys/ping
