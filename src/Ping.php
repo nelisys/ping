@@ -18,7 +18,7 @@ class Ping {
     /**
      * Path to fping command.
      */
-    protected $fping = '/usr/sbin/ping';
+    protected $fping = '/usr/sbin/fping';
 
     /**
      * Array of hosts.
